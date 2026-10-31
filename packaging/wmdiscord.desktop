@@ -1,0 +1,10 @@
+# SPDX-License-Identifier: GPL-2.0-only
+[Desktop Entry]
+Type=Application
+Name=WMDiscord
+GenericName=Discord Voice Overlay
+Comment=Native GNUstep voice-channel overlay for Window Maker
+Exec=WMDiscord
+Terminal=false
+Categories=Network;InstantMessaging;
+StartupNotify=false
